@@ -1,1 +1,1 @@
-# clash-config
+# rules-config
